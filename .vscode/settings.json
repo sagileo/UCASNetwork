@@ -1,0 +1,30 @@
+{
+	"files.associations": {
+		"*.vue": "html",
+		"mospf_database.h": "c",
+		"mospf_proto.h": "c",
+		"inet.h": "c",
+		"stdio.h": "c",
+		"icmp.h": "c",
+		"mospf_daemon.h": "c",
+		"ip.h": "c",
+		"arpcache.h": "c",
+		"rtable.h": "c",
+		"arp.h": "c",
+		"log.h": "c",
+		"stdlib.h": "c",
+		"ether.h": "c",
+		"mospf_nbr.h": "c",
+		"list.h": "c",
+		"base.h": "c",
+		"types.h": "c",
+		"unistd.h": "c",
+		"sstream": "c",
+		"tcp_timer.h": "c",
+		"nat.h": "c",
+		"tcp_hash.h": "c",
+		"tcp_sock.h": "c",
+		"tcp.h": "c"
+	},
+	"git.ignoreLimitWarning": true
+}
